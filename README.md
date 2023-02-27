@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=robot12580&label=PROFILE+VIEWS)
+
+🌱 I’m currently interested in React Performance Optimization!
+
+![bio](https://github-readme-stats.vercel.app/api?username=robot12580&show_icons=true)
+
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=robot12580&layout=compact)
+
 <!--
 **robot12580/robot12580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
