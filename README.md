@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=robot12580&label=Visitors&style=flat-square" alt="gtihub-visitors" />
 </a>
 
-## Hi, 👋  I'm <a href="" target="_blank">Rui Jie (robot12580)</a> <sup><a href="" title="pronunciation">🔊</a></sup>
+## Hi, 👋  I'm <a href="" target="_blank">Rui Jie (robot12580)</a>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/izaley9TQAJ0ol3KpT/200w.webp" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
@@ -74,6 +74,8 @@
 📊 **This Week I Spent My Time On:**
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=robot12580&title_color=333&text_color=777" />
+
+### 🖥️ Open-Source Projects &emsp; <a href="https://github.com/robot12580?tab=stars"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/robot12580?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
 
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
