@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=robot12580&label=Visitors&style=flat-square" alt="gtihub-visitors" />
 </a>
 
-## Hi, 👋  I'm <a href="" target="_blank">Rui Jie (robot12580)</a>
+## Hi, 👋  I'm <a href="" target="_blank">Rui Jie (robot12580)</a> <sup>🍀</sup>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/izaley9TQAJ0ol3KpT/200w.webp" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
