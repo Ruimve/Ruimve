@@ -73,7 +73,7 @@
 
 📊 **This Week I Spent My Time On:**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=robot12580" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=robot12580&title_color=333&text_color=777" />
 
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
