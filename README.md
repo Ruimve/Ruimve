@@ -52,6 +52,8 @@
 
 <h2></h2>
 
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47z741ndg8mdv1l36nvzi3rcc92bvr2pipa7ye00lc&rid=giphy.gif&ct=g" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html"></code>
