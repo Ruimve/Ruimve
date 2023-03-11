@@ -24,10 +24,33 @@
 
 <p align="center">
   <a href="https://github.com/robot12580">
-    <img src="https://github-readme-stats.vercel.app/api?username=robot12580" alt="Robot12580's Stats" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot12580&layout=compact" alt="Most Used Languages" >
+    <img src="https://github-readme-stats.vercel.app/api?username=robot12580&title_color=333&text_color=777" alt="Robot12580's Stats" >
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot12580&layout=compact&title_color=333&text_color=777" alt="Most Used Languages" > -->
   </a>
 </p>
+
+<p align="center">
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/robot12580">
+    <img src="https://badges.strrl.dev/visits/robot12580/robot12580?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/robot12580">
+    <img src="https://badges.strrl.dev/years/robot12580?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/robot12580?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/robot12580?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/robot12580">
+    <img src="https://badges.strrl.dev/gists/robot12580?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/robot12580">
+    <img src="https://badges.strrl.dev/commits/monthly/robot12580?style=flat-square&color=black&logo=github">
+  </a>
+
+</p>
+
+<h2></h2>
 
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
