@@ -20,6 +20,15 @@
 
 ✨ 作为大数据项目 [Dataphin（内部版）][dataphin-inner] 的子模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度；率先对整个项目进行基于 [qiankun][qian-kun] 的改造，落地多页应用无缝切换。
 
+<br />
+
+<p align="center">
+  <a href="https://github.com/robot12580">
+    <img src="https://github-readme-stats.vercel.app/api?username=robot12580" alt="Robot12580's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot12580&layout=compact" alt="Most Used Languages" >
+  </a>
+</p>
+
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
 
