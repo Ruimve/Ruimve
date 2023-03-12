@@ -89,7 +89,7 @@ All open-source repo orted by stars. [here][my-repository-star]
             <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th></tr>
             <tr>
               <td align="center" ><a href="https://github.com/Ruimve/microhook" target="_blank"><img src="https://github.com/Ruimve/materials/blob/main/images/windmill.png?raw=true" alt="microhook" width="36" style="vertical-align:bottom;"/>  <br> microhook </a></td>
-              <td><sub>🌱 体积小但却功能强大的自定义 Hook，帮助用户快速在 React 应用中到达目的。</sub></td>
+              <td><sub>🌱 体积小但却功能强大的自定义 Hook，帮助用户能够快速在 React 应用中到达目的。</sub></td>
               <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruimve/microhook?style=flat-square&labelColor=black"/></td>
               <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
             </tr>
@@ -111,6 +111,10 @@ All open-source repo orted by stars. [here][my-repository-star]
     </tr>
   </tbody>
 </table>
+
+If you like ~~Ruimve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Ruimve Sponsors](https://ruimve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://ruimve.github.io/sponsor.html](https://ruimve.github.io/sponsor.html).
+
+<a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
