@@ -116,6 +116,66 @@ If you like ~~Ruimve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 
 
 <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+### :hearts: [Acknowledgements](https://github.com/sponsors/Ruimve)
+
+<b>Top <i>12</i> of my contributors</b> will be displayed here:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/plag-it-hub">
+        <img src="https://avatars.githubusercontent.com/u/68912136?v=4" width="42.4px;" alt="plag-it-hub"/>
+      </a>
+      <br />
+      <a href="https://github.com/plag-it-hub">a7</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Masayuki-JP">
+        <img src="https://avatars.githubusercontent.com/u/67523717?v=4" width="42.4px;" alt="Masayuki-JP"/>
+      </a>
+      <br />
+      <a href="https://github.com/Masayuki-JP">稲盛雅之</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CLCK0622">
+        <img src="https://avatars.githubusercontent.com/u/36215258?v=4" width="42.4px;" alt="CLCK0622"/>
+      </a>
+      <br />
+      <a href="https://github.com/CLCK0622">Kevin Zhong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HandsomeD123">
+        <img src="https://avatars.githubusercontent.com/u/112997341?v=4" width="42.4px;" alt="HandsomeD123"/>
+      </a>
+      <br />
+      <a href="https://github.com/HandsomeD123">Handsome</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wuqi5700">
+        <img src="https://avatars.githubusercontent.com/u/17986393?v=4" width="42.4px;" alt="wuqi5700"/>
+      </a>
+      <br />
+      <a href="https://github.com/wuqi5700">Asura57</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/renqian805">
+        <img src="https://avatars.githubusercontent.com/u/84910084?v=4" width="42.4px;" alt="renqian805"/>
+      </a>
+      <br />
+      <a href="https://github.com/renqian805">renqian805</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bubbles-hu">
+        <img src="https://avatars.githubusercontent.com/u/75723594?v=4" width="42.4px;" alt="bubbles-hu"/>
+      </a>
+      <br />
+      <a href="https://github.com/bubbles-hu">bubbles-hu</a>
+    </td> 
+  </tr>
+</table>
+
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
 [my-repository]: https://github.com/Ruimve?tab=repositories
