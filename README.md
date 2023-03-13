@@ -2,6 +2,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Ruimve&label=Visitors&style=flat-square" alt="gtihub-visitors" />
 </a>
 
+<!--my introduction start-->
+
 ## Hi, 👋  I'm <a href="https://ruimve.github.io" target="_blank">Rui Jie (Ruimve)</a> <sup>🍀</sup>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/izaley9TQAJ0ol3KpT/200w.webp" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
@@ -21,6 +23,8 @@
 ✨ 作为大数据项目 [Dataphin（内部版）][dataphin-inner] 的子模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度；率先对整个项目进行基于 [qiankun][qian-kun] 的改造，落地多页应用无缝切换。
 
 <br>
+
+<!--my work start-->
 
 <p align="center">
   <a href="https://github.com/Ruimve">
@@ -50,7 +54,11 @@
 
 </p>
 
+<!--my introduction end -->
+
 <h2></h2>
+
+<!--my tools start-->
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47z741ndg8mdv1l36nvzi3rcc92bvr2pipa7ye00lc&rid=giphy.gif&ct=g" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,6 +84,10 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimve&title_color=333&text_color=777" />
 
 ### 🖥️ Open-Source Projects &emsp; <a href="https://github.com/Ruimve?tab=stars"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Ruimve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
+
+<!--my tools end-->
+
+<!--my open-source projects start-->
 
 All open-source repo orted by stars. [here][my-repository-star]
 
@@ -111,6 +123,10 @@ All open-source repo orted by stars. [here][my-repository-star]
     </tr>
   </tbody>
 </table>
+
+<!--my open-source projects end-->
+
+<!--my contributors start-->
 
 If you like ~~Ruimve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Ruimve Sponsors](https://ruimve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://ruimve.github.io/sponsor.html](https://ruimve.github.io/sponsor.html).
 
@@ -175,6 +191,10 @@ If you like ~~Ruimve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 
     </td> 
   </tr>
 </table>
+
+<!--my contributors end-->
+
+<!--links-->
 
 [dataphin-inner]: https://www.aliyun.com/product/dataphin
 [qian-kun]: https://qiankun.umijs.org/zh/
