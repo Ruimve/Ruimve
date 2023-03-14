@@ -81,7 +81,7 @@
 
 📊 **This Week I Spent My Time On:**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimve&title_color=333&text_color=777" />
+<a href="https://wakatime.com"><img width="400" src="https://wakatime.com/share/@Ruimve/5f17be29-ee15-48c1-b8a5-14adf13c9e49.png" /></a>
 
 ### 🖥️ Open-Source Projects &emsp; <a href="https://github.com/Ruimve?tab=stars"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Ruimve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
 
