@@ -21,8 +21,8 @@
 </details>
 
 <!--
-✨ 作为大数据项目 [Dataphin（内部版）][dataphin-inner] 的子模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度；率先对整个项目进行基于 [qiankun][qian-kun] 的改造，落地多页应用无缝切换。 -->
-✨ 作为大数据项目模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度；率先对整个项目进行基于 [qiankun][qian-kun] 的改造，落地多页应用无缝切换。
+✨ 作为大数据项目的子模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度。 -->
+✨ 作为大数据项目模块前端负责人，率先对本模块进行 ts、eslint 和 prettier 治理，实现风格统一和类型全定义；率先进行对模块的性能优化（React.memo + useCallback/useMemo 等），大幅提升应用的使用舒适度。
 
 <br>
 
